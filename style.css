@@ -1,0 +1,34 @@
+.container{
+    
+    column-width: 600px; 
+    column-count:6;
+}
+.textcols-item {
+    column-width:100px;
+	white-space: normal;	
+	display: inline-block;
+	width: 48%;
+	vertical-align: top;
+	background: #fff2e1;
+}
+.textcols-item1 {
+	white-space: normal;	
+	display: inline-block;
+	width: 48%;
+	vertical-align: top;
+	background: #c5e2f0;
+}
+.textcols-item2 {
+	white-space: normal;	
+	display: inline-block;
+	width: 48%;
+	vertical-align: top;
+	background: #ebc5f0;
+}
+.textcols-item3 {
+	white-space: normal;	
+	display: inline-block;
+	width: 48%;
+	vertical-align: top;
+	background: #ebc5f0;
+}
